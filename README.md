@@ -1,3 +1,8 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aniprogramer/aniprogramer/main/banner.png" alt="Aniket De Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Aniket De</h1>
 <h3 align="center">A passionate software developer, actively exploring DSA and delving into the learning phase of Web Development.</h3>
 
