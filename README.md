@@ -36,10 +36,10 @@
 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-F89822?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/Java-4CAF50?style=for-the-badge&logo=openjdk" />
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/TailwindCSS-1E293B?style=for-the-badge&logo=tailwind-css" />
   <img src="https://img.shields.io/badge/Mapbox-black?style=for-the-badge&logo=mapbox" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask" />
   <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python" />
