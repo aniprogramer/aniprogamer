@@ -64,9 +64,9 @@
 📫 How to reach me
 
 - 🌐 Portfolio: [coming soon]
-- 💌 aniket@example.com
-- 🐦 Twitter: [yourTwitter]
-- 💼 LinkedIn: [yourLinkedIn]
+- 💌 aniketde66@gmail.com
+- 🐦 Instagram: https://www.instagram.com/aniketde66/
+- 💼 LinkedIn: https://www.linkedin.com/in/aniket-de-2a6166293/
 
 ---
 
