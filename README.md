@@ -7,7 +7,7 @@
 <h3 align="center">A passionate software developer, actively exploring DSA and delving into the learning phase of Web Development.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&width=450&lines=BTech+CSE+Student;Frontend+Dev+%7C+React+%2B+Tailwind;Hackathon+Builder+%7C+Crunchy+Hedgehogs;Aspiring+Top+100+Coder+in+the+World" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&width=500&lines=BTech+CSE+Student;Frontend+Dev+%7C+React+%2B+Tailwind;I+strive+to+be+a+top+100+coder+globally;" alt="Typing SVG" />
 </p>
 
 ---
